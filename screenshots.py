@@ -1,7 +1,6 @@
 #! python3
 
 ## Take a list of hostnames or IPs and screenshot websites
-## By reverseshellrob
 
 from selenium import webdriver
 import os,sys
